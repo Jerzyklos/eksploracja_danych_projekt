@@ -1,0 +1,45 @@
+California 
+['Nonemployer establishments, 2013', 'Population, 2014 estimate']
+Hawaii 
+['Median value of owner-occupied housing units, 2009-2013', 'White alone, percent, 2014', 'Asian alone, percent, 2014', 'Native Hawaiian and Other Pacific Islander alone, percent, 2014', 'Two or More Races, percent, 2014', 'Asian-owned firms, percent, 2007', 'Native Hawaiian- and Other Pacific Islander-owned firms, percent, 2007']
+Montana 
+['Private nonfarm establishments, 2013 per 10000']
+New Jersey 
+['Population per square mile, 2010']
+New Mexico 
+['American Indian and Alaska Native alone, percent, 2014', 'Hispanic or Latino, percent, 2014', 'American Indian- and Alaska Native-owned firms, percent, 2007', 'Hispanic-owned firms, percent, 2007']
+New York 
+['Housing units in multi-unit structures, percent, 2009-2013']
+Oklahoma 
+['American Indian- and Alaska Native-owned firms, percent, 2007']
+Utah 
+['Persons under 5 years, percent, 2014', 'Persons under 18 years, percent, 2014', 'Persons 65 years and over, percent, 2014', 'Persons per household, 2009-2013', 'Households, 2009-2013 per capita']
+Wyoming 
+['Private nonfarm establishments, 2013 per 10000', 'Women-owned firms, percent, 2007 per 10000']
+
+
+Nonemployer establishments, 2013 :  1
+Population, 2014 estimate :  1
+Median value of owner-occupied housing units, 2009-2013 :  1
+White alone, percent, 2014 :  1
+Asian alone, percent, 2014 :  1
+Native Hawaiian and Other Pacific Islander alone, percent, 2014 :  1
+Two or More Races, percent, 2014 :  1
+Asian-owned firms, percent, 2007 :  1
+Native Hawaiian- and Other Pacific Islander-owned firms, percent, 2007 :  1
+Private nonfarm establishments, 2013 per 10000 :  2
+Population per square mile, 2010 :  1
+American Indian and Alaska Native alone, percent, 2014 :  1
+Hispanic or Latino, percent, 2014 :  1
+American Indian- and Alaska Native-owned firms, percent, 2007 :  2
+Hispanic-owned firms, percent, 2007 :  1
+Housing units in multi-unit structures, percent, 2009-2013 :  1
+Persons under 5 years, percent, 2014 :  1
+Persons under 18 years, percent, 2014 :  1
+Persons 65 years and over, percent, 2014 :  1
+Persons per household, 2009-2013 :  1
+Households, 2009-2013 per capita :  1
+Women-owned firms, percent, 2007 per 10000 :  1
+
+
+
